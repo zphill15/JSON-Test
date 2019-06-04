@@ -1,0 +1,12 @@
+{
+  "activePins": [
+    {
+      "clientID": "PC1234",
+      "Pin": "92341"
+    },
+    {
+      "clientID": "Droid1234",
+      "Pin": "92343"
+    }
+  ]
+}
